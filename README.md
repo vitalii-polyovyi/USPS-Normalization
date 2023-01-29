@@ -16,3 +16,6 @@ docker-compose -f docker-compose.dev.yml down
 ```
 
 Open: http://localhost:3001/ in your browser
+
+# Demo video
+[DEMO](demo.mp4)
