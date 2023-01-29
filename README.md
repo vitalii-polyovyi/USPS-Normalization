@@ -1,6 +1,7 @@
 # How to start dev environment
 
-Rename `.env.dev.example` to `.env`.
+Rename `.env.dev.example` to `.env` and replace `USPS_USERNAME` with your API USPS username.
+
 Run the following commands:
 
 ```shell
