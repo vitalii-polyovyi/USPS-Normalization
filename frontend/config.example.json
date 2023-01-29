@@ -1,0 +1,6 @@
+{
+  "api": {
+    "base": "http://localhost:3000",
+    "key": "localhost-key"
+  }
+}

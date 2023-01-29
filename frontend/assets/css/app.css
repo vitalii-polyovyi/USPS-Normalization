@@ -1,0 +1,12 @@
+.address-form-card {
+    max-width: 800px;
+}
+
+.btn-check:not(:checked) + .btn {
+    background-color: #cfe2ff;
+    color: var(--bs-primary);
+}
+
+.btn-check:not(:checked):hover + .btn {
+    color: var(--bs-white) !important;
+}
